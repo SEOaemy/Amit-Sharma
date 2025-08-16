@@ -1,0 +1,5 @@
+{
+  "name": "ChainCycle",
+  "description": "A gamified platform to encourage and manage e-waste recycling. Users can register their old electronics, earn points, climb the leaderboard, and play the 'Data Miner' blockchain game, making recycling a rewarding experience.",
+  "requestFramePermissions": []
+}
